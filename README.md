@@ -20,5 +20,3 @@
 - Instalación en su computador, funciona sin internet
 
 
-
-- Soporte: smsoftwarecolombia@gmail.com
